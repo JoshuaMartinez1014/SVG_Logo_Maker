@@ -39,7 +39,7 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 ![video of creating svg file](/homework/SvgLogoMaker/demo.webm)
 
-- demo video link: https://drive.google.com/file/d/1v6J6vhAKFp9WTUxR3c7xiFtw9sQ0y_Xt/view
+- [demo video link:](https://drive.google.com/file/d/1v6J6vhAKFp9WTUxR3c7xiFtw9sQ0y_Xt/view)
 
 ## Helpful SVG Resources
 
